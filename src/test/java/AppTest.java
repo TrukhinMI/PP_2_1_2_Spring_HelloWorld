@@ -28,3 +28,4 @@ public class AppTest {
         Assert.assertNotSame("Тест провален, не корректная настройка бина Cat", one, two);
     }
 }
+
